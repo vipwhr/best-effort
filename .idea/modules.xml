@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/best-effort.iml" filepath="$PROJECT_DIR$/best-effort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downstream-business/downstream-business.iml" filepath="$PROJECT_DIR$/downstream-business/downstream-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upstream-business/upstream-business.iml" filepath="$PROJECT_DIR$/upstream-business/upstream-business.iml" />
     </modules>
   </component>
 </project>

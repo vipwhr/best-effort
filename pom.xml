@@ -6,7 +6,12 @@
 
     <groupId>com.adrian.demo</groupId>
     <artifactId>best-effort</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>upstream-business</module>
+        <module>downstream-business</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
