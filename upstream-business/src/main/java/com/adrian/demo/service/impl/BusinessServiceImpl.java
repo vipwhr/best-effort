@@ -25,7 +25,7 @@ public class BusinessServiceImpl implements BusinessService{
     @Override
     @Transactional
     public void localBusiness() {
-        logger.info("完成了本地的工作！");
+        logger.info("完成了本地的工作啦！");
         jmsTemplate.send("sample.queue", new MessageCreator() {
             @Override
             public Message createMessage(Session session) throws JMSException {
