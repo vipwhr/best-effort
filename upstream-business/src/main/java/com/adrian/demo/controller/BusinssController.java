@@ -1,5 +1,6 @@
 package com.adrian.demo.controller;
 
+import com.adrian.demo.Test;
 import com.adrian.demo.service.BusinessService;
 import com.adrian.demo.utils.JsonResult;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,6 +24,13 @@ public class BusinssController {
 
         return new JsonResult("YOUR TICKET IS " + id);
 
+    }
+
+    Test getTest(){
+        Test test =  new Test();
+        test.setName("Controller");
+        test.setName("dsdasddsdsa");
+        return test;
     }
 
     @RequestMapping("/send")
