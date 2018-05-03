@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92fbfbc-b30e-4a08-8f82-db1e9f5358d0" name="Default" comment="我增加了一个文字">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +24,8 @@
       <file leaf-file-name="TestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -488,12 +487,12 @@
       <workItem from="1524754461254" duration="2216000" />
       <workItem from="1524922068370" duration="2492000" />
       <workItem from="1525047335907" duration="2326000" />
-      <workItem from="1525362184596" duration="1182000" />
+      <workItem from="1525362184596" duration="1362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27207000" />
+    <option name="totallyTimeSpent" value="27387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -506,11 +505,11 @@
       <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.5928205" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.5928205" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.3297062" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.46871796" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771673" />
       <window_info anchor="bottom" id="Problems" order="1" weight="0.3297062" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -776,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
