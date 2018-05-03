@@ -15,7 +15,7 @@ public class TestController {
     public String normalTest(){
 
         Test test = new Test();
-        test.setName("whr1111");
+        test.setName("whr1122222211");
         Class clazz = Test.class;
         String result = null;
         try {
