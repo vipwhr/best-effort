@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92fbfbc-b30e-4a08-8f82-db1e9f5358d0" name="Default" comment="我增加了一个文字">
-      <change beforePath="$PROJECT_DIR$/downstream-business/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/downstream-business/target/classes/com/adrian/demo/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/downstream-business/target/classes/com/adrian/demo/config/Consumer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/config/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/controller/BusinssController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/controller/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/service/BusinessService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/service/impl/BusinessServiceImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/service/impl/BusinessServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upstream-business/target/classes/com/adrian/demo/utils/JsonResult.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +24,8 @@
       <file leaf-file-name="TestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -389,12 +378,12 @@
       <workItem from="1524922068370" duration="2492000" />
       <workItem from="1525047335907" duration="2326000" />
       <workItem from="1525362184596" duration="1362000" />
-      <workItem from="1525877771519" duration="75000" />
+      <workItem from="1525877771519" duration="153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27462000" />
+    <option name="totallyTimeSpent" value="27540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -652,8 +641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upstream-business/src/main/java/com/adrian/demo/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
